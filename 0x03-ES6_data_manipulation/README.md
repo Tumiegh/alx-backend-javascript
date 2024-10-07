@@ -1,2 +1,2 @@
-Data Manipulation Project
-Javascript Backend
+Data Manipulation
+Backend Project Javascript
